@@ -196,6 +196,12 @@ pre code {
 	text-align: center;
     
 }
+.row .col.m10 {
+    width: 100%;
+}
+.row .col.offset-l2{
+    margin-left: 0;
+}
 .pic img{
     width: 700px;
     height: 200px;
